@@ -1,68 +1,69 @@
-# Problem-sets
+# Problem_sets
 
-计算机科学相关基础知识讨论
+## [中文版](/README_ZH.md)
+
+Discussions about the basic knowledge of Computer Science
 
 
 ## Background
 
-鼓励大家的学习兴趣，提高大家学习计算机相关技术的氛围，从而达到提高计算机科学专业素养能力的目标。
+Our aim is to get interested in learning computer science and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
 
 
-## Detail
+## Details
 
-1. 每周选取几个计算机科学相关的问题进行讨论。
+1. We will discuss some questions about computer science every week.
 
-1. 为了提高效率，可以由对问题所涉及到的相关领域熟悉的同学先给出对应的领域比较权威的参考性资料。
+2. In order to improve efficiency, students who know relevant knowledge in related fields will provide authoritative reference materials at first.
 
-3. 大家针对所给出的参考资料，在**为期一周**的时间内进行阅读和理解。
+3. We will spend a week in learning and understanding these materials and knowledge.
 
-4. 每周末小组成员进行相关的讨论和总结，并将讨论的结果形成文档进行保存，从而最终达到巩固大家计算机基础知识的目的。
+4. On the weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
 
 
-## Core Member
+## Core Members
 
 | Member |  Member |  Member |
 | :---:   |  :---:   |   :---: |
 | Qing Wang    |  Xiaolong He     |  Yuxin Jin   |
 | Yunteng Zhang    |  Jiangmei Zhang     | Qiangfei Zhou  |
 | Luanluan Feng    |  Rumei Deng     |  Fan Wu   |
-| Wenming Jin    |  Zhuming Zhou     |  
+| Wenming Jin    |  Zhuming Zhou     |  Qian Lu  |
 
 
-## Doc Structure
+## Document Structure
 
 Topic.md<br>
-　　|---讨论话题<br>
-　　　　|--- question list<br>
-　　|---各自见解<br>
- 　　　　|--- Author(可以用姓名的开头缩写)<br>
- 　　　　|--- Your Answer<br>
- 　　　　|--- ===================(以此分隔线作为你的回答的结束)
+　　|--- Topic discussion<br>
+　　　　　　|--- question list<br>
+　　|--- Everyone's opinion<br>
+　　　　　　|--- Author(you can use the abbreviation of the name)<br>
+　　　　　　|--- Your Answer<br>
+　　　　　　|--- ===================(Your answer is written in the back of the line.)<br>
 
 
 ## How to Contribute
 
-1. `fork`此仓库到自己的Github；
+1. `fork` this repository to your Github；
 
-2. 利用`git clone + your repository url`命令将此项目从你的Github克隆到本地；
+2. Use this command(`git clone + your repository url`) to clone this repository from your Github to local；
 
-3. 在本地修改或者增加此项目的相关内容；
+3. Modify or add related content in a local project dynamically according to your needs；
 
-4. 在本地更改结束之后利用`git add` , `git commit -m + "commmit message"`命令将修改提交到本地版本库；
+4. Use this command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local repository after the achievement of your change；
 
-5. 利用`git push`命令将本地的修改同步到Github的远程仓库；
+5. Use the (`git push`) command to synchronize local modifications to Github's remote repository；
 
-6. 发送`pull requests`给王清；
+6. Send (`pull requests`) and everyone of our team can `review` it ；
 
-7. `review`通过或者返回修改。
+7. (`review`)adopt or return to have a modification。
+
 
 ## How to Subscribe
 
-Star此项目即可。Star之后，每次此项目有最新的更新，你也可以第一时间看到。
+Star this project. After Staring it, every time this repository has the latest update, you will know it at once.
+
 
 ## Thanks
 
-感谢所有对此项目做出贡献的人
-
-
-
+Thanks for all those who have contributed to it.
